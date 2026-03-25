@@ -48,5 +48,29 @@
 
 
 
+<h2>Mod Configurations</h2>
+
+<p>
+
+I highly recommend you explore the mods using the in game mod menu.
+
+Frostbyte's Inventory give a lot of options for more than just your HUG/GUI.
+
+Subtle Effects adds a lot of different particle effects to the game, all of which can be customized.
+
+Particle Rain and Sounds are other mods you can configure to your liking. Take some time to
+
+tinker and figure out what settings you like.
+
+</p>
+
+
+
+
+
+
+
+
+
 
 
