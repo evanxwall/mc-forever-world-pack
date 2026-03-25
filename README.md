@@ -14,9 +14,9 @@
 
 
 
-<p>
+<p>Installation Steps:</p>
 
-<ol>Installation Steps:
+<ol>
 
 <li>Click on the folder of the version you are trying to install</li>
 
@@ -36,9 +36,9 @@
 
 
 
-<p>
+<p>Base vs Clean</p>
 
-<ul>Base vs Clean
+<ul>
 
 <li>Base - Has my settings, worlds and mod configurations</li>
 
@@ -46,7 +46,7 @@
 
 </ul>
 
-</p>
+
 
 
 
