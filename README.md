@@ -1,22 +1,22 @@
-# Basic Repo For Friends to Grab Updated Minecraft Modpack
+# Forever World .mcpack Repo
 
 
 
-<p>Just a simple repo for friends to grab a modpack easier.</p>
+<p><h2>Just a simple repo for friends to grab a modpack easier.</h2></p>
 
-<p>Modpacks will be added once they are stable enough to run. I will also add more versions if I add or delete or modify and packs</p>
+<p><h2>Modpacks will be added once they are stable enough to run. I will also add more versions if I add or delete or modify and packs</h2></p>
 
 
 
 <p>
 
-&nbsp;   <ul><b>Base vs Clean</b>
+<ul><h3>Base vs Clean</h3>
 
-&nbsp;	<li>Base - Has my settings, worlds and mod configurations</li>
+<li>Base - Has my settings, worlds and mod configurations</li>
 
-&nbsp;	<li>Clean - Has No worlds and very little mod configurations</li>
+<li>Clean - Has No worlds and very little mod configurations</li>
 
-&nbsp;   </ul>
+</ul>
 
 </p>
 
